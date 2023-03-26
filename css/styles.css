@@ -1,0 +1,56 @@
+body {
+    background-color: #D7E9B9;
+    text-align: center;
+    
+}
+
+hr{
+    border-style: dotted  none none;
+    height:20px;
+    border-color: #DFD3C3;
+    border-width: 12px;
+    width: 7%;
+}
+
+h1{
+    color:#88A47C;
+}
+
+h3{
+    color:#88A47C;
+    font: bold 1.2em "Fira Sans",serif;
+    font-style: italic;
+}
+
+h2{
+    color:#88A47C;
+    font: bold 1.2em "Fira Sans",serif;
+    font-style: italic;
+
+}
+
+form{
+    font: bold 1.2em "Fira Sans",serif;
+    font-style: italic;
+    color:#88A47C
+
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul{
+    text-align: center;
+}
+
+img{
+    
+    background-color: rgb(100, 173, 184);
+}
+
+.me:hover{
+    background-color: aqua;
+}
+
